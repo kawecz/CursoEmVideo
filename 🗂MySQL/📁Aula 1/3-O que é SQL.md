@@ -1,0 +1,3 @@
+
+---
+SQL é uma linguagem de programação usada por quase todos [os bancos de dados relacionais](https://www.oracle.com/br/database/what-is-database/#relational) para consultar, manipular e definir dados e fornecer controle de acesso. O SQL foi desenvolvido pela primeira vez na IBM nos anos 1970, com a Oracle como principal contribuinte, o que levou à implementação do padrão SQL ANSI; o SQL estimulou muitas extensões de empresas como IBM, Oracle e Microsoft. Embora o SQL ainda seja amplamente usado hoje em dia, novas linguagens de programação estão começando a aparecer.
