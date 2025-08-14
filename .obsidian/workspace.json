@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗂MySQL/📁Aula 1/1-O que é um banco de Dados.md",
-                "mode": "preview",
+                "file": "🗂MySQL/📁Aula 2/Video Tutorial.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1-O que é um banco de Dados"
+              "title": "Video Tutorial"
             }
           }
         ],
@@ -195,16 +195,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6d8ca92f2ebfbf60",
+  "active": "d22b3516b613e388",
   "lastOpenFiles": [
-    "🗂MySQL/📁Aula 1/1-O que é um banco de Dados.md",
+    "🗂MySQL/📁Aula 2/O que é MySQL.md",
+    "🗂MySQL/📁Aula 2/1 - Instalacao do Servidor MySQL.pdf",
+    "🗂MySQL/📁Aula 2/Video Tutorial.md",
+    "🗂MySQL/📁Aula 1/3 - O que é SQL.md",
+    "🗂MySQL/📁Aula 1/4 - Apostila SQL.pdf",
+    "🗂MySQL/📁Aula 1/1 - O que é um banco de Dados.md",
+    "🗂MySQL/📁Aula 2",
     "README.md",
     "Excalidraw/Drawing 2025-08-13 10.49.06.excalidraw.md",
     "2025-08-13.md",
     "Excalidraw",
-    "🗂MySQL/📁Aula 1/4-Apostila SQL.pdf",
-    "🗂MySQL/📁Aula 1/3-O que é SQL.md",
-    "🗂MySQL/📁Aula 1/2-Historia dos Bancos de Dados.pdf",
+    "🗂MySQL/📁Aula 1/2 - Historia dos Bancos de Dados.pdf",
     "🗂MySQL/📁Aula 1",
     "🗂MySQL"
   ]
