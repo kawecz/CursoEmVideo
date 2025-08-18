@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗂MySQL/📁Aula 3/Create Database & Create Table.md",
+                "file": "🗂MySQL/📁Aula 4/Chave-Primária (Primary Key).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Create Database & Create Table"
+              "title": "Chave-Primária (Primary Key)"
             }
           }
         ],
@@ -181,6 +181,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -196,8 +197,10 @@
   },
   "active": "d22b3516b613e388",
   "lastOpenFiles": [
-    "🗂MySQL/📁Aula 3/📁Tipos Primitivos/Literal.md",
+    "🗂MySQL/📁Aula 4/04 - Melhorando Banco de Dados.pdf",
+    "🗂MySQL/📁Aula 4/Chave-Primária (Primary Key).md",
     "🗂MySQL/📁Aula 3/Create Database & Create Table.md",
+    "🗂MySQL/📁Aula 3/📁Tipos Primitivos/Literal.md",
     "🗂MySQL/📁Aula 3/Registros & Tabelas.md",
     "🗂MySQL/📁Aula 3/03 - Criando Banco de Dados MySQL.pdf",
     "🗂MySQL/📁Aula 3/Tipos Primitivos.md",
@@ -205,7 +208,6 @@
     "🗂MySQL/📁Aula 3/📁Tipos Primitivos/Data e Tempo.md",
     "🗂MySQL/📁Aula 3/📁Tipos Primitivos/Númerico.md",
     "🗂MySQL/📁Aula 3/📁Tipos Primitivos",
-    "🗂MySQL/📁Aula 4/04 - Melhorando Banco de Dados.pdf",
     "🗂MySQL/📁Aula 4",
     "🗂MySQL/📁Aula 2/Video Tutorial.md",
     "🗂MySQL/📁Aula 3",
