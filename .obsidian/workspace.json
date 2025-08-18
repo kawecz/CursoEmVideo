@@ -11,16 +11,14 @@
             "id": "d22b3516b613e388",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "🗂MySQL/📁Aula 3/03 - Criando Banco de Dados MySQL.pdf",
-                "page": 15,
-                "left": -38,
-                "top": 533,
-                "zoom": 0.3921875
+                "file": "🗂MySQL/📁Aula 3/Create Database & Create Table.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "03 - Criando Banco de Dados MySQL"
+              "icon": "lucide-file",
+              "title": "Create Database & Create Table"
             }
           }
         ],
@@ -175,12 +173,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,10 +196,17 @@
   },
   "active": "d22b3516b613e388",
   "lastOpenFiles": [
+    "🗂MySQL/📁Aula 3/📁Tipos Primitivos/Literal.md",
     "🗂MySQL/📁Aula 3/Create Database & Create Table.md",
-    "🗂MySQL/📁Aula 3/Tipos Primitivos.md",
     "🗂MySQL/📁Aula 3/Registros & Tabelas.md",
     "🗂MySQL/📁Aula 3/03 - Criando Banco de Dados MySQL.pdf",
+    "🗂MySQL/📁Aula 3/Tipos Primitivos.md",
+    "🗂MySQL/📁Aula 3/📁Tipos Primitivos/Espacial.md",
+    "🗂MySQL/📁Aula 3/📁Tipos Primitivos/Data e Tempo.md",
+    "🗂MySQL/📁Aula 3/📁Tipos Primitivos/Númerico.md",
+    "🗂MySQL/📁Aula 3/📁Tipos Primitivos",
+    "🗂MySQL/📁Aula 4/04 - Melhorando Banco de Dados.pdf",
+    "🗂MySQL/📁Aula 4",
     "🗂MySQL/📁Aula 2/Video Tutorial.md",
     "🗂MySQL/📁Aula 3",
     "🗂MySQL/📁Aula 2/O que é MySQL.md",
@@ -215,8 +219,6 @@
     "Excalidraw/Drawing 2025-08-13 10.49.06.excalidraw.md",
     "2025-08-13.md",
     "Excalidraw",
-    "🗂MySQL/📁Aula 1/2 - Historia dos Bancos de Dados.pdf",
-    "🗂MySQL/📁Aula 1",
-    "🗂MySQL"
+    "🗂MySQL/📁Aula 1/2 - Historia dos Bancos de Dados.pdf"
   ]
 }
