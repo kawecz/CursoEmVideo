@@ -13,14 +13,14 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "🗂MySQL/📁Aula 5/05 - INSERT INTO.pdf",
-                "page": 5,
+                "file": "🗂MySQL/📁Aula 6/06 - ALTER TABLE DROP TABLE.pdf",
+                "page": 11,
                 "left": -55,
                 "top": 41,
                 "zoom": 0.275
               },
               "icon": "lucide-file-text",
-              "title": "05 - INSERT INTO"
+              "title": "06 - ALTER TABLE DROP TABLE"
             }
           }
         ],
@@ -197,12 +197,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d22b3516b613e388",
+  "active": "f4fad83de65f175f",
   "lastOpenFiles": [
+    "🗂MySQL/📁Aula 6/Anotações.md",
+    "🗂MySQL/📁Aula 6/06 - ALTER TABLE DROP TABLE.pdf",
+    "🗂MySQL/📁Aula 5/05 - INSERT INTO.pdf",
+    "🗂MySQL/📁Aula 6",
     "🗂MySQL/📁Aula 5/DML.md",
     "🗂MySQL/📁Aula 5/DDL.md",
     "🗂MySQL/📁Aula 5/Anotações.md",
-    "🗂MySQL/📁Aula 5/05 - INSERT INTO.pdf",
     "🗂MySQL/📁Aula 4/Chave-Primária (Primary Key).md",
     "🗂MySQL/📁Aula 5",
     "🗂MySQL/📁Aula 4/04 - Melhorando Banco de Dados.pdf",
@@ -221,9 +224,7 @@
     "🗂MySQL/📁Aula 2/O que é MySQL.md",
     "🗂MySQL/📁Aula 2/1 - Instalacao do Servidor MySQL.pdf",
     "🗂MySQL/📁Aula 1/3 - O que é SQL.md",
-    "🗂MySQL/📁Aula 1/4 - Apostila SQL.pdf",
     "🗂MySQL/📁Aula 1/1 - O que é um banco de Dados.md",
-    "🗂MySQL/📁Aula 2",
     "README.md",
     "Excalidraw/Drawing 2025-08-13 10.49.06.excalidraw.md",
     "2025-08-13.md"
