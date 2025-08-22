@@ -11,16 +11,14 @@
             "id": "d22b3516b613e388",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "🗂MySQL/📁Aula 6/06 - ALTER TABLE DROP TABLE.pdf",
-                "page": 11,
-                "left": -55,
-                "top": 41,
-                "zoom": 0.275
+                "file": "🗂MySQL/📁Aula 6/Video.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "06 - ALTER TABLE DROP TABLE"
+              "icon": "lucide-file",
+              "title": "Video"
             }
           }
         ],
@@ -43,7 +41,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byCreatedTimeReverse",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -173,6 +171,56 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "97ae94fe29c1135b",
+            "type": "leaf",
+            "state": {
+              "type": "transcript-view",
+              "state": {},
+              "icon": "scroll",
+              "title": "YouTube Transcript"
+            }
+          },
+          {
+            "id": "94c0d7ffd0b2d190",
+            "type": "leaf",
+            "state": {
+              "type": "transcript-view",
+              "state": {},
+              "icon": "scroll",
+              "title": "YouTube Transcript"
+            }
+          },
+          {
+            "id": "656c52f31cc7faec",
+            "type": "leaf",
+            "state": {
+              "type": "transcript-view",
+              "state": {},
+              "icon": "scroll",
+              "title": "YouTube Transcript"
+            }
+          },
+          {
+            "id": "93af55a7e222383a",
+            "type": "leaf",
+            "state": {
+              "type": "transcript-view",
+              "state": {},
+              "icon": "scroll",
+              "title": "YouTube Transcript"
+            }
+          },
+          {
+            "id": "d66893f094d6b637",
+            "type": "leaf",
+            "state": {
+              "type": "transcript-view",
+              "state": {},
+              "icon": "scroll",
+              "title": "YouTube Transcript"
+            }
           }
         ],
         "currentTab": 5
@@ -197,36 +245,43 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f4fad83de65f175f",
+  "active": "6d8ca92f2ebfbf60",
   "lastOpenFiles": [
-    "🗂MySQL/📁Aula 6/Anotações.md",
+    "🗂MySQL/📁Aula 6/Anotações 2.md",
+    "🗂MySQL/📁Aula 6/Video.md",
+    "🗂MySQL/📁Aula 5/Video.md",
+    "🗂MySQL/📁Aula 5/Anotação 2.md",
+    "🗂MySQL/📁Aula 4/Video.md",
+    "🗂MySQL/📁Aula 4/Anotações.md",
+    "🗂MySQL/📁Aula 5/Anotações.md",
+    "🗂MySQL/📁Aula 4/04 - Melhorando Banco de Dados.pdf",
+    "🗂MySQL/📁Aula 3/Anotações.md",
+    "🗂MySQL/📁Aula 3/Video.md",
+    "🗂MySQL/📁Aula 3/03 - Criando Banco de Dados MySQL.pdf",
+    "🗂MySQL/📁Aula 2/O que é MySQL.md",
+    "🗂MySQL/📁Aula 2/Video Tutorial.md",
+    "🗂MySQL/📁Aula 2/1 - Instalacao do Servidor MySQL.pdf",
+    "🗂MySQL/📁Aula 1/Anotações.md",
+    "🗂MySQL/📁Aula 1/Video.md",
+    "🗂MySQL/📁Aula 1/Apostila SQL.pdf",
+    "🗂MySQL/📁Aula 1/Historia dos Bancos de Dados.pdf",
+    "🗂MySQL/📁Aula 1/O que é SQL.md",
+    "🗂MySQL/📁Aula 1/O que é um banco de Dados.md",
     "🗂MySQL/📁Aula 6/06 - ALTER TABLE DROP TABLE.pdf",
+    "🗂MySQL/📁Aula 6/Anotações.md",
     "🗂MySQL/📁Aula 5/05 - INSERT INTO.pdf",
     "🗂MySQL/📁Aula 6",
     "🗂MySQL/📁Aula 5/DML.md",
     "🗂MySQL/📁Aula 5/DDL.md",
-    "🗂MySQL/📁Aula 5/Anotações.md",
     "🗂MySQL/📁Aula 4/Chave-Primária (Primary Key).md",
     "🗂MySQL/📁Aula 5",
-    "🗂MySQL/📁Aula 4/04 - Melhorando Banco de Dados.pdf",
     "🗂MySQL/📁Aula 3/Create Database & Create Table.md",
     "🗂MySQL/📁Aula 3/📁Tipos Primitivos/Literal.md",
     "🗂MySQL/📁Aula 3/Registros & Tabelas.md",
-    "🗂MySQL/📁Aula 3/03 - Criando Banco de Dados MySQL.pdf",
     "🗂MySQL/📁Aula 3/Tipos Primitivos.md",
     "🗂MySQL/📁Aula 3/📁Tipos Primitivos/Espacial.md",
     "🗂MySQL/📁Aula 3/📁Tipos Primitivos/Data e Tempo.md",
     "🗂MySQL/📁Aula 3/📁Tipos Primitivos/Númerico.md",
-    "🗂MySQL/📁Aula 3/📁Tipos Primitivos",
-    "🗂MySQL/📁Aula 4",
-    "🗂MySQL/📁Aula 2/Video Tutorial.md",
-    "🗂MySQL/📁Aula 3",
-    "🗂MySQL/📁Aula 2/O que é MySQL.md",
-    "🗂MySQL/📁Aula 2/1 - Instalacao do Servidor MySQL.pdf",
-    "🗂MySQL/📁Aula 1/3 - O que é SQL.md",
-    "🗂MySQL/📁Aula 1/1 - O que é um banco de Dados.md",
-    "README.md",
-    "Excalidraw/Drawing 2025-08-13 10.49.06.excalidraw.md",
-    "2025-08-13.md"
+    "🗂MySQL/📁Aula 3/📁Tipos Primitivos"
   ]
 }

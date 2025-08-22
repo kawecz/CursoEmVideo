@@ -2,5 +2,7 @@
   "pdf-plus",
   "obsidian-excalidraw-plugin",
   "calendar",
-  "obsidian-git"
+  "obsidian-git",
+  "convert-url-to-iframe",
+  "ytranscript"
 ]
