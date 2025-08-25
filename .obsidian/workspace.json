@@ -11,14 +11,16 @@
             "id": "d22b3516b613e388",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "🗂MySQL/📁Aula 6/Video.md",
-                "mode": "source",
-                "source": false
+                "file": "🗂MySQL/📁Aula 7/07 - UPDATE DELETE TRUNCATE.pdf",
+                "page": 7,
+                "left": -55,
+                "top": 1061,
+                "zoom": 0.275
               },
-              "icon": "lucide-file",
-              "title": "Video"
+              "icon": "lucide-file-text",
+              "title": "07 - UPDATE DELETE TRUNCATE"
             }
           }
         ],
@@ -221,6 +223,16 @@
               "icon": "scroll",
               "title": "YouTube Transcript"
             }
+          },
+          {
+            "id": "e0a61748579d6795",
+            "type": "leaf",
+            "state": {
+              "type": "transcript-view",
+              "state": {},
+              "icon": "scroll",
+              "title": "YouTube Transcript"
+            }
           }
         ],
         "currentTab": 5
@@ -245,10 +257,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6d8ca92f2ebfbf60",
+  "active": "d22b3516b613e388",
   "lastOpenFiles": [
+    "🗂MySQL/📁Aula 7/Anotações.md",
+    "🗂MySQL/📁Aula 7/Video.md",
+    "🗂MySQL/📁Aula 7/07 - UPDATE DELETE TRUNCATE.pdf",
+    "🗂MySQL/📁Aula 6/06 - ALTER TABLE DROP TABLE.pdf",
     "🗂MySQL/📁Aula 6/Anotações 2.md",
+    "🗂MySQL/📁Aula 6/Anotações.md",
     "🗂MySQL/📁Aula 6/Video.md",
+    "🗂MySQL/📁Aula 7",
     "🗂MySQL/📁Aula 5/Video.md",
     "🗂MySQL/📁Aula 5/Anotação 2.md",
     "🗂MySQL/📁Aula 4/Video.md",
@@ -267,21 +285,14 @@
     "🗂MySQL/📁Aula 1/Historia dos Bancos de Dados.pdf",
     "🗂MySQL/📁Aula 1/O que é SQL.md",
     "🗂MySQL/📁Aula 1/O que é um banco de Dados.md",
-    "🗂MySQL/📁Aula 6/06 - ALTER TABLE DROP TABLE.pdf",
-    "🗂MySQL/📁Aula 6/Anotações.md",
     "🗂MySQL/📁Aula 5/05 - INSERT INTO.pdf",
     "🗂MySQL/📁Aula 6",
     "🗂MySQL/📁Aula 5/DML.md",
     "🗂MySQL/📁Aula 5/DDL.md",
     "🗂MySQL/📁Aula 4/Chave-Primária (Primary Key).md",
-    "🗂MySQL/📁Aula 5",
     "🗂MySQL/📁Aula 3/Create Database & Create Table.md",
     "🗂MySQL/📁Aula 3/📁Tipos Primitivos/Literal.md",
     "🗂MySQL/📁Aula 3/Registros & Tabelas.md",
-    "🗂MySQL/📁Aula 3/Tipos Primitivos.md",
-    "🗂MySQL/📁Aula 3/📁Tipos Primitivos/Espacial.md",
-    "🗂MySQL/📁Aula 3/📁Tipos Primitivos/Data e Tempo.md",
-    "🗂MySQL/📁Aula 3/📁Tipos Primitivos/Númerico.md",
-    "🗂MySQL/📁Aula 3/📁Tipos Primitivos"
+    "🗂MySQL/📁Aula 3/Tipos Primitivos.md"
   ]
 }
